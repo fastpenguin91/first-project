@@ -1,1 +1,1 @@
-just another file in the root of the working directory
+Line replaced in master branch
